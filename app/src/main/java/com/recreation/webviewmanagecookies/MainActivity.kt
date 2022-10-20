@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
 
 
     companion object {
-        private const val URL = "https://harimau.sumtestapp.xyz/sign_in"
+        private const val URL = ""
     }
 
 }
